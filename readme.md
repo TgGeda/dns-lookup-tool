@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-dnspython
-cachetools
-beautifulsoup4
-=======
+ 
 # DNS Lookup Tool
 
 ## Description
@@ -154,4 +150,4 @@ Contributions are welcome! Please open an issue or submit a pull request on GitH
 ## Contact
 
 For any questions or suggestions, please open an issue on GitHub.
->>>>>>> e54c3a846f6dd604e548176931da655908a4c2a4
+ 
